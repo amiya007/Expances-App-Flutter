@@ -13,8 +13,8 @@ The Expenses App is a simple and easy-to-use mobile application designed to help
 
 ## Screenshots
 
-![Expenses App screenshot 1](screenshots/screenshot_1.png | width=100)
-![Expenses App screenshot 2](screenshots/screenshot_2.png | width=100)
+![Expenses App screenshot 1](screenshots/screenshot_1.png | width=100px)
+![Expenses App screenshot 2](screenshots/screenshot_2.png | width=100px)
 
 
 ## Usage
