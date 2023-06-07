@@ -16,6 +16,16 @@ The Expenses App is a simple and easy-to-use mobile application designed to help
 <img src="screenshots/screenshot_1.png" alt="Screenshot 1" width="200"> <img src="screenshots/screenshot_2.png" alt="Screenshot 2" width="200">
 
 
+
+
+## Download APK
+
+You can download the latest version of the APK from the following link:
+
+[Download APK]([https://example.com/path/to/apk/file.apk](https://drive.google.com/uc?export=download&id=17TYQWUfzVoTq0mumcxeV0AhxfpWptDXb)) ⬇️
+
+
+
 ## Usage
 
 1. Launch the Expenses App
