@@ -22,7 +22,8 @@ The Expenses App is a simple and easy-to-use mobile application designed to help
 
 You can download the latest version of the APK from the following link:
 
-[Download APK]([https://example.com/path/to/apk/file.apk](https://drive.google.com/uc?export=download&id=17TYQWUfzVoTq0mumcxeV0AhxfpWptDXb)) ⬇️
+[Download APK](https://drive.google.com/uc?export=download&id=17TYQWUfzVoTq0mumcxeV0AhxfpWptDXb) &#x2193;
+
 
 
 
